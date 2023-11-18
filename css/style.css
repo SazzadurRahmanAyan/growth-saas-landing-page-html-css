@@ -106,22 +106,22 @@ img {
 
 /* Testimonials */
 
-.testimonilas {
+.testimonials {
   padding: 40px 0;
 }
 
-.testimonilas .testimonials-heading {
+.testimonials .testimonials-heading {
   width: 700px;
   margin-bottom: 40px;
 }
 
-.testimonilas-grid {
+.testimonials-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 30px;
 }
 
-.testimonilas .card p:nth-child(2) {
+.testimonials .card p:nth-child(2) {
   margin-top: 30px;
   font-weight: bold;
 }
